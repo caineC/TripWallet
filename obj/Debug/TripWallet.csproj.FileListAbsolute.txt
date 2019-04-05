@@ -1,0 +1,6 @@
+c:\users\pawel.miszczuk\documents\visual studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+c:\users\pawel.miszczuk\documents\visual studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+c:\users\pawel.miszczuk\documents\visual studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+c:\users\pawel.miszczuk\documents\visual studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+c:\users\pawel.miszczuk\documents\visual studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
+c:\users\pawel.miszczuk\documents\visual studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\TripWallet.csprojResolveAssemblyReference.cache
